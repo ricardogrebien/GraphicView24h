@@ -1,0 +1,16 @@
+{
+"data": [
+{
+"group": "valais",
+"request_count": 200
+},
+{
+"group": "lucerne",
+"request_count": 500
+},
+{
+"group": "gr",
+"request_count": 745
+}
+]
+}
